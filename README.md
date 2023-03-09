@@ -20,8 +20,8 @@ pkg install git
 pip install requests
 pip install mechanize
 pip install bs4
-git clone https://github.com/F4RH4NXD
-cd DARK-FB
+git clone https://github.com/F4RH4NXD/XSFS
+cd XSFS
 git pull
 ```
 
