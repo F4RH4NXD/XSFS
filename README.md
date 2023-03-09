@@ -8,7 +8,7 @@
 ```
 cd $HOME/XSFS
 git pull
-python main.py
+python XSFS.py
 ```
 
 * **Bagi Yang Belum Install Tools**
